@@ -1,7 +1,6 @@
 # Мой первый репозиторий
 
  my first repository
-
     * hello I am C# developer
     * My first program to C#
 
@@ -18,8 +17,3 @@
     * Отправка удаления репозиториев (Push)
     * Оновление локал репозиториев (Pull/Fetch)
     * Слияние (Merge)
-
-### дополнительно
-
-    Cheng progect
-    походу получилось
