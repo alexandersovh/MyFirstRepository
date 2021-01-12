@@ -3,7 +3,6 @@
 * hello I am C# developer
 * My first program to C#
 ## че могу
-<<<<<<< Updated upstream
 * Git учу что змнаю
 * Система контроля версий
 * Git
